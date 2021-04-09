@@ -5,5 +5,5 @@
 ### Вариант - 11
 ![Вариант](Вариант.png)  
 ![Описание](pictures/Описание.png)  
-![Бот](pictures/Бот.png)
+![FIS Bot](pictures/FIS Bot.png)
 ![Виртуальная_машина](pictures/Виртуальная_Машина.png)
